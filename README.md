@@ -1,1 +1,1 @@
-# Other-projects
+These are my other projects
